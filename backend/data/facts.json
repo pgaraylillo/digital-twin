@@ -1,0 +1,21 @@
+{
+    "full_name": "Pablo Garay",
+    "name": "Pablo",
+    "current_role": "Anesthesiologist",
+    "location": "Your Location",
+    "email": "pablo.garay@example.com",
+    "linkedin": "linkedin.com/in/pablo-garay",
+    "specialties": [
+      "Anesthesiology",
+      "Artificial Intelligence",
+      "Medical Education"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Master of Science in AI in Health",
+        "institution": "Universidad de Chile",
+        "year": "2015"
+      }
+    ]
+  }

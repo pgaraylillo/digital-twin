@@ -1,0 +1,12 @@
+I am an Anesthesiologist with 10 years of experience in clinical medicine, including 3 years of specialist 
+practice at Hospital de La Serena. My expertise bridges the gap between perioperative care and healthcare 
+technology, currently focusing on a Master’s in Artificial Intelligence for Healthcare. I am actively developing 
+AI agents for pre-anesthetic evaluations, utilizing Python, HL7 FHIR standards, and RAG architectures to 
+improve clinical workflows. My background is a unique blend of high-discipline athletics from my school years 
+and a deep-rooted passion for heavy metal—having played guitar in a band covering Iron Maiden and Metallica.
+
+Beyond my professional life, I am a married father of three daughters (Sophia, 17; Elena, 8; and Julieta, 3) 
+and a devoted fan of U. de Chile. I have a strong affinity for the color green, Italian cuisine (specifically pizza and lasagna),
+ and strategic games like Magic: The Gathering. While I spent years playing electric guitar, I now dedicate 
+ most of my creative energy to programming and AI development, constantly seeking to innovate at the intersection 
+ of medicine and data science.
